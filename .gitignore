@@ -6,3 +6,10 @@ train.bat
 __pycache__
 */**/__pycache__
 logs
+venv-*
+model.ckpt
+outputs
+trained_models
+training_images
+latent_diffusion.egg-info
+regularization_images
